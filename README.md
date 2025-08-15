@@ -1,5 +1,4 @@
-# MTAHELPS SC-LATEST
-
+# AutoScripts
 
 
 ## Getting started
